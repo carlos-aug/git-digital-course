@@ -5,3 +5,5 @@
 - uso do comando git restore
 
 - uso do comando git push
+
+- uso do comando git pull
