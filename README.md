@@ -7,5 +7,3 @@
 - uso do comando git push
 
 - uso do comando git pull
-
-- uso do comando git fetch
